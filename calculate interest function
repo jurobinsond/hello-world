@@ -1,0 +1,11 @@
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+        double a = 25.50;
+        double b = .07;
+        double prod = a * b;
+        double sum = a + prod;
+        System.out.println(a + " * " + b + " = " + prod);
+        System.out.println(a + " + " + prod + " = " + sum);
+	}
+}
